@@ -1,4 +1,4 @@
-name: Build OnePlus_SukiSU Ultra All
+name: op_ssu_ultra_op12v
 on:
   workflow_dispatch:
     inputs:
